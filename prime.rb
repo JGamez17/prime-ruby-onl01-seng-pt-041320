@@ -5,4 +5,6 @@ array = (2..num-1)
     num % number == 0 
   end
  else false 
+ end 
+ 
 end 
