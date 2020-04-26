@@ -4,5 +4,5 @@ array = (2..num-1)
    array.none? do |number|
     num % number == 0 
   end
-else false 
+ else false 
 end 
